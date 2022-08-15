@@ -1,0 +1,187 @@
+/* MENU PAGE */
+
+
+body {
+    background-color: #030e0f;
+    color: #ecddc1;
+    padding: 30px 45px;
+    font-family: Montserrat-black;
+  }
+  
+  /* FIRST SET OF DIV */
+  .major-div {
+    width: 450px;
+    height: 700px;
+    background-color: #000000;
+    margin: 30px auto;
+    border-radius: 25px;
+    padding: 20px 45px 50px;
+  
+  }
+  .top-div {
+    text-align: center;
+    margin: 13% 0 0 5px;
+  }
+  
+  .fa-arrow-left {
+    position: absolute;
+    top: 90px;
+    left: 160px;
+    background-color: transparent;
+    font-size: 1.5rem;
+    color: #4c5050;
+  
+  
+  }
+  .top-heading {
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    color: #493115;
+  
+  }
+  .top-header {
+    color:#d3c0a8;
+    font-size: 2.7rem;
+  }
+  .menu-imgg {
+    width: 50%;
+    height: 30%;
+    border-radius: 50%;
+    margin: 10% 0 0 25%;
+  }
+  
+  .bottom-div {
+    background-color: #030e0f;
+    background-image: var(--bs-gradient);
+    width: 300px;
+    height: 300px;
+    margin: -60px auto 0;
+    padding: 58px 20px 0;
+    border-radius: 10px;
+  
+  
+  }
+  .bottom-head {
+    padding: 5px 7.5px 4px;
+    font-size: 1.5rem;
+  }
+  
+  
+  .table {
+    margin: 15px 0 3px;
+    color: #4c5050;
+  }
+ 
+  .bottom-price {
+    margin: 17px 0 0;
+    padding: 0 9px;
+  }
+  .fa-arrow-right {
+    background-color: #000000;
+    background-image: var(--bs-gradient);
+    color: #c2c7c7;
+    width: 60px;
+    height: 60px;
+    border-radius: 15px;
+    padding: 20px 20px 5px 5px;
+    margin: 10px 0 60px 50px;
+  }
+  
+  
+  
+  /* SECOOND SET OF DIV  */
+  .major-divv {
+    width: 450px;
+    height: 700px;
+    background-color: #000000;
+    margin: 30px auto;
+    border-radius: 25px;
+    padding: 20px 35px;
+  
+  }
+  /* AMERICANO BEGINS */
+  .bottom-divvv {
+    padding: 5px 0 1px 30px;
+    margin-top: 10px;
+  
+  }
+  
+  .menu-imggg {
+    width: 60%;
+    height: 10%;
+    border-radius: 25px;
+    margin: 30px 0 0 30px;
+  
+  }
+  /* AMERICANO ENDS */
+  
+  
+  .menu-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+    margin: 10px 20px 0 0;
+  }
+  .bottom-divv {
+    padding: 5px 0 1px 30px;
+    width: 300px;
+    height: 250px;
+    margin-top: 50px;
+  
+  }
+  .bottom-heading {
+    color: #4c5050;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+  }
+  .bottom-headd {
+    font-size: 1.5rem;
+    color: #d6bea0;
+    margin: 2px 0 10px 0;
+  }
+  
+  .bottom-text {
+    font-size: 1rem;
+    color: #4c5050;
+    margin: 2px 0 0;
+  }
+  .price-2 {
+    color: #d6bea0;
+  }
+  
+  .button {
+    background-color: #000607;
+    background-image: var(--bs-gradient);
+    width: 250px;
+    height: 50px;
+    color: #8b9494;
+    border-radius: 10px;
+    margin: 10px 0 20px;
+  }
+  .fa-heart {
+    background-color: #000607;;
+    background-image: var(--bs-gradient);
+    color: #c2c7c7;
+    width: 60px;
+    height: 50px;
+    border-radius: 15px;
+    padding: 20px 21px 8px 7px;
+    margin: 10px 10px 60px 100px;
+  }
+  /* LATTE BEGINS */
+  
+  .menu-img-latte {
+    width: 100%;
+    height: 150%;
+    margin: 15px 25px 20px 0;
+    border-radius: 3px;
+  }
+  
+  .bottom-divv-latte {
+    padding: 5px 0 1px 0;
+    width: 300px;
+    height: 250px;
+    margin-top: 70px;
+  
+  }
+  
